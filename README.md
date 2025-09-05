@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Amyels-CMD/Amyels-CMD/raw/main/github-header-banner.png" alt="Banner Amyels-CMD" width="100%" />
+  <img src="https://github.com/Amyels-CMD/Amyels-CMD/raw/main/github-header.banner.png" alt="Banner Amyels-CMD" width="100%" />
 </p>
 
 # 👋 ¡Wenas! Mi nombre es Amyels Abel Severino De La Rosa
